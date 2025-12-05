@@ -16,6 +16,6 @@ Bem-vindo ao meu hub de projetos. Este repositório serve como um índice para o
 | **Nome 08** | Descrição do projeto. | [Acessar](URL_DO_REPO) |
 | **Nome 09** | Descrição do projeto. | [Acessar](URL_DO_REPO) |
 | **Nome 10** | Descrição do projeto. | [Acessar](URL_DO_REPO) |
-
+| **Nome 11** | Descrição do projeto. | [Acessar](URL_DO_REPO) |
 
 ---
